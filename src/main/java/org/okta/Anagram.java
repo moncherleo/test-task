@@ -1,4 +1,4 @@
-package org.interview.task.okta;
+package org.okta;
 
 import org.testng.Assert;
 

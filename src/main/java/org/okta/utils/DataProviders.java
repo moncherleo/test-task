@@ -1,4 +1,4 @@
-package org.interview.task.okta.utils;
+package org.okta.utils;
 
 import org.testng.annotations.DataProvider;
 

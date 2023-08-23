@@ -1,8 +1,8 @@
 package okta;
 
-import org.interview.task.okta.pages.HomePage;
-import org.interview.task.okta.pages.TrialPage;
-import org.interview.task.okta.utils.DataProviders;
+import org.okta.pages.HomePage;
+import org.okta.pages.TrialPage;
+import org.okta.utils.DataProviders;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 

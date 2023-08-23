@@ -1,4 +1,4 @@
-package org.interview.task.okta.pages;
+package org.okta.pages;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
