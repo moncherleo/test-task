@@ -1,0 +1,6 @@
+firstName=John
+lastName=Smith
+workEmail=me@johnsmith.com
+phoneNumber=+14375555555
+country=Canada
+province=Ontario
